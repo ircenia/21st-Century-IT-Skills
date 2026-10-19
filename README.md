@@ -1,547 +1,271 @@
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F6C9DB&height=260&section=header&text=IONNA'S%20PORTFOLIO&fontSize=50&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%"/>
-<br>
-<img src="https://img.shields.io/badge/GE%204120-FCE4EC?style=for-the-badge&labelColor=F8D4E2&color=FCE4EC" />
+<!-- 🌸 IONNA'S GE 4120 PORTFOLIO 🌸 -->
 
-IONNA’S PORTFOLIO
-
-PRESENTATION DESIGN
-
-99-093 · GE 4120
-
-<br>
-
-୨୧ ───────────────────────── ୨୧
-
-<br>
-
-♡ A Creative Collection of Ideas, Designs & Visual Stories
-
-<p>
-Welcome to my <b>GE 4120 Presentation Design Portfolio</b> —  
-a collection of creative activities that showcase my journey  
-in learning, designing, and communicating through visuals.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8D4E2,50:EDE3F5,100:DCC8EB&height=200&section=header&text=IONNA'S%20PORTFOLIO&fontSize=35&fontColor=6D597A&animation=fadeIn&fontAlignY=35&desc=PRESENTATION%20DESIGN%20%7C%2099-093%20%C2%B7%20GE%204120&descAlignY=55&descSize=15" width="100%" alt="Ionna's Portfolio Header"/>
 </p>
-<br>
 
-<a href="https://github.com/ircenia/21st-Century-IT-Skills/blob/main/Activity1.md">
-<img src="https://img.shields.io/badge/EXPLORE-FCE4EC?style=for-the-badge&labelColor=F8D4E2&color=FCE4EC" />
-</a>
+<p align="center">
+  <strong>🎀 PRESENTATION DESIGN PORTFOLIO 🎀</strong>
+  <br>
+  <em>Three Creative Pieces · One Creative Journey</em>
+</p>
 
-<a href="#activity-02">
-<img src="https://img.shields.io/badge/CREATE-EDE3F5?style=for-the-badge&labelColor=DCC8EB&color=EDE3F5" />
-</a>
+<p align="center">
+  <a href="#about-me">
+    <img src="https://img.shields.io/badge/♡_ABOUT-FCE4EC?style=for-the-badge&labelColor=F8D4E2&color=FCE4EC" alt="About"/>
+  </a>
+  <a href="#portfolio-roadmap">
+    <img src="https://img.shields.io/badge/🎀_ACTIVITIES-EDE3F5?style=for-the-badge&labelColor=DCC8EB&color=EDE3F5" alt="Activities"/>
+  </a>
+  <a href="#laboratory-examination">
+    <img src="https://img.shields.io/badge/✿_LAB_EXAM-F8D4E2?style=for-the-badge&labelColor=EDE3F5&color=F8D4E2" alt="Laboratory Examination"/>
+  </a>
+</p>
 
-<a href="#activity-03">
-<img src="https://img.shields.io/badge/DESIGN-FCE8F0?style=for-the-badge&labelColor=F7D7E5&color=FCE8F0" />
-</a>
+---
 
-</div>
+<a id="about-me"></a>
 
-<div align="center">
+## ♡ About Me
 
-♡ ABOUT THIS PORTFOLIO
+Hello! I'm **Ionna R. Cenia**, and welcome to my **Presentation Design Portfolio** for **GE 4120**.
 
-<br>
+This portfolio showcases my learning journey in presentation design, color and typography, social media infographics, and digital productivity tools. Each activity reflects my creativity, effort, and developing skills in creating organized, meaningful, and visually appealing outputs.
 
-୨୧ ˚₊‧♡‧₊˚ ୨୧
+<p align="center">
+  <img src="https://img.shields.io/badge/STUDENT-IONNA%20R.%20CENIA-F8D4E2?style=flat-square&labelColor=EDE3F5" alt="Student"/>
+  <img src="https://img.shields.io/badge/COURSE-GE%204120-DCC8EB?style=flat-square&labelColor=FCE4EC" alt="Course"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-PRESENTATION%20DESIGN-F8D4E2?style=flat-square&labelColor=EDE3F5" alt="Portfolio"/>
+</p>
 
-</div>
+---
 
-This portfolio presents my creative outputs and learning experiences from GE 4120 – Presentation Design. It explores the use of visual hierarchy, layout, color, typography, information design, and visual storytelling to create presentations and digital content that are both aesthetically pleasing and easy to understand.
+<a id="portfolio-roadmap"></a>
 
-Each activity reflects a different part of the design process — from understanding fundamental design principles, to developing a visual identity, and finally applying these concepts to social media infographics and a mini project.
+## 🎀 Portfolio Roadmap
 
-<br>
+Click an activity below to navigate to its section in this README.
 
-<div align="center">
+| Activity | Title | Description | Navigation |
+|:---:|---|---|:---:|
+| 01 | Presentation Design Principles | Understanding effective presentation design | [View Activity](#activity-01) |
+| 02 | Color Palette and Typography | Exploring colors, fonts, and visual identity | [View Activity](#activity-02) |
+| 03 | Social Media Infographics and Mini Project Documentation | Creating informative and engaging visual content | [View Activity](#activity-03) |
+| 04 | Google Docs Presentation | Applying digital document and presentation skills | [View Activity](#activity-04) |
+| Lab | Laboratory Examination | Compilation of laboratory examination outputs | [View Lab Exam](#laboratory-examination) |
 
-<img src="https://img.shields.io/badge/VISUAL%20DESIGN-FCE4EC?style=for-the-badge&labelColor=F8D4E2&color=FCE4EC" />
-<img src="https://img.shields.io/badge/CREATIVITY-EDE3F5?style=for-the-badge&labelColor=DCC8EB&color=EDE3F5" />
-<img src="https://img.shields.io/badge/COMMUNICATION-FCE8F0?style=for-the-badge&labelColor=F7D7E5&color=FCE8F0" />
+---
 
-♡ Design is where ideas become visual stories.
+<a id="activity-01"></a>
 
-<br>
+## 🌸 Activity 01: Presentation Design Principles
 
-🎀 ───────────────────────── 🎀
+<p align="center">
+  <img src="https://img.shields.io/badge/ACTIVITY%2001-PRESENTATION%20DESIGN-F8D4E2?style=for-the-badge&labelColor=EDE3F5" alt="Activity 01"/>
+</p>
 
-</div>
+### Overview
 
-<div align="center">
+This activity focuses on the fundamental principles of effective presentation design. It highlights how visual organization, readability, consistency, and appropriate design elements help communicate information clearly to an audience.
 
-୨୧ PORTFOLIO ROADMAP ୨୧
+### Key Learning Points
 
-<br>
+- **Contrast** — Making important information stand out.
+- **Alignment** — Organizing elements in a clean and structured layout.
+- **Repetition** — Maintaining consistent colors, fonts, and design elements.
+- **Proximity** — Grouping related information together.
+- **Simplicity** — Avoiding unnecessary elements that distract the audience.
+- **Readability** — Using appropriate font sizes and clear text.
 
-<a href="#activity-01">
-<img src="https://img.shields.io/badge/01%20PRESENTATION%20DESIGN-FCE4EC?style=for-the-badge&labelColor=F8D4E2&color=FCE4EC" />
-</a>
+### Activity Output
 
-→
+The output demonstrates how presentation design principles can be applied to create an organized, understandable, and visually appealing presentation.
 
-<a href="#activity-02">
-<img src="https://img.shields.io/badge/02%20COLOR%20%26%20TYPOGRAPHY-EDE3F5?style=for-the-badge&labelColor=DCC8EB&color=EDE3F5" />
-</a>
+<p align="center">
+  <a href="https://github.com/ircenia/21st-Century-IT-Skills/blob/ed3457d4ea7427385ee339f379954dd7cc6ff7f1/Activity1.md">
+    <img src="https://img.shields.io/badge/♡%20VIEW%20ACTIVITY%2001-F8D4E2?style=for-the-badge&labelColor=EDE3F5" alt="View Activity 01"/>
+  </a>
+</p>
 
-→
+[⬆ Back to Portfolio Roadmap](#portfolio-roadmap)
 
-<a href="#activity-03">
-<img src="https://img.shields.io/badge/03%20SOCIAL%20MEDIA-FCE8F0?style=for-the-badge&labelColor=F7D7E5&color=FCE8F0" />
-</a>
+---
 
-→
+<a id="activity-02"></a>
 
-<a href="#activity-04">
-<img src="https://img.shields.io/badge/04%20GOOGLE%20DOCS-EDE3F5?style=for-the-badge&labelColor=DCC8EB&color=EDE3F5" />
-</a>
+## 🎨 Activity 02: Color Palette and Typography
 
-→
+<p align="center">
+  <img src="https://img.shields.io/badge/ACTIVITY%2002-COLOR%20%26%20TYPOGRAPHY-EDE3F5?style=for-the-badge&labelColor=F8D4E2" alt="Activity 02"/>
+</p>
 
-<a href="#laboratory-examination">
-<img src="https://img.shields.io/badge/LABORATORY%20EXAMINATION-FCE4EC?style=for-the-badge&labelColor=F8D4E2&color=FCE4EC" />
-</a>
+### Overview
 
-<table>
-<tr>
-<td align="center" width="20%">
+This activity explores the importance of color palettes and typography in visual communication. It demonstrates how colors and fonts can work together to establish a consistent identity and improve the appearance and readability of a design.
 
-🎀
+### Key Learning Points
 
-<a href="#activity-01"><b>01</b><br>PRESENTATION DESIGN</a>
+- **Color Palette** — Selecting complementary colors that create visual harmony.
+- **Typography** — Choosing appropriate fonts for headings and body text.
+- **Hierarchy** — Using different font sizes and weights to guide attention.
+- **Consistency** — Applying the same design style throughout the output.
+- **Visual Identity** — Creating a recognizable look through colors, typography, and layout.
 
-Visual hierarchy, layout, alignment, balance, contrast, and consistency.
+### Activity Output
 
-</td>
+This activity includes the development of a color palette, typography choices, a resume header, a tagline, and a logo that reflect a consistent visual style.
 
-<td align="center" width="20%">
+<p align="center">
+  <a href="https://github.com/ircenia/21st-Century-IT-Skills/blob/939f6f865b43ac4ce50b9f12670b27b7730172c1/Activity2.md">
+    <img src="https://img.shields.io/badge/♡%20VIEW%20ACTIVITY%2002-EDE3F5?style=for-the-badge&labelColor=F8D4E2" alt="View Activity 02"/>
+  </a>
+</p>
 
-🪻
+[⬆ Back to Portfolio Roadmap](#portfolio-roadmap)
 
-<a href="#activity-02"><b>02</b><br>COLOR & TYPOGRAPHY</a>
+---
 
-Color harmony, font pairing, readability, and visual identity.
+<a id="activity-03"></a>
 
-</td>
+## 📱 Activity 03: Social Media Infographics and Mini Project Documentation
 
-<td align="center" width="20%">
+<p align="center">
+  <img src="https://img.shields.io/badge/ACTIVITY%2003-SOCIAL%20MEDIA%20INFOGRAPHICS-F8D4E2?style=for-the-badge&labelColor=DCC8EB" alt="Activity 03"/>
+</p>
 
-🩷
+### Overview
 
-<a href="#activity-03"><b>03</b><br>SOCIAL MEDIA</a>
+This activity focuses on creating social media infographics and documenting a mini project. It combines creativity, information organization, and visual communication to present ideas in a clear and engaging format.
 
-Infographics, visual storytelling, and mini project documentation.
+### Key Learning Points
 
-</td>
+- **Visual Communication** — Presenting information through images, icons, and concise text.
+- **Information Organization** — Arranging content logically for easy understanding.
+- **Design Consistency** — Maintaining a unified color palette, typography, and layout.
+- **Audience Awareness** — Creating content appropriate for the intended audience.
+- **Documentation** — Recording the process, progress, and final output of a project.
 
-<td align="center" width="20%">
+### Activity Output
 
-🎀
+The output showcases an infographic design and mini project documentation that demonstrate the use of visual elements to communicate information effectively.
 
-<a href="#activity-04"><b>04</b><br>GOOGLE DOCS PRESENTATION</a>
+<p align="center">
+  <a href="https://github.com/ircenia/21st-Century-IT-Skills/blob/939f6f865b43ac4ce50b9f12670b27b7730172c1/Activity3.md">
+    <img src="https://img.shields.io/badge/♡%20VIEW%20ACTIVITY%2003-F8D4E2?style=for-the-badge&labelColor=DCC8EB" alt="View Activity 03"/>
+  </a>
+</p>
 
-Document design, formatting, and presentation of information using Google Docs.
+[⬆ Back to Portfolio Roadmap](#portfolio-roadmap)
 
-</td>
+---
 
-<td align="center" width="20%">
+<a id="activity-04"></a>
 
-🪻
+## 💻 Activity 04: Google Docs Presentation
 
-<a href="#laboratory-examination"><b>LAB</b><br>LABORATORY EXAMINATION</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/ACTIVITY%2004-GOOGLE%20DOCS%20PRESENTATION-EDE3F5?style=for-the-badge&labelColor=F8D4E2" alt="Activity 04"/>
+</p>
 
-Practical outputs using Google Drive, Google Docs, and Google Sheets.
+### Overview
 
-</td>
-</tr>
-</table>
+Activity 04 focuses on using Google Docs and digital productivity tools to create, organize, and present information. It highlights the importance of proper formatting, document structure, and collaboration when preparing academic outputs.
 
-<br>
+### Key Learning Points
 
-୨୧ ───────────────────────── ୨୧
+- **Document Formatting** — Applying appropriate headings, font styles, spacing, and alignment.
+- **Organization** — Arranging information into clear sections.
+- **Collaboration** — Using digital tools to share and work on documents.
+- **Accessibility** — Keeping documents readable and easy to navigate.
+- **Digital Productivity** — Using online tools to complete and organize academic tasks.
 
-</div>
+### Activity Output
 
-<!-- ACTIVITY 01 -->
+The output demonstrates the application of digital document skills in preparing an organized and professional academic output.
 
-<div align="center" id="activity-01">
+<p align="center">
+  <a href="YOUR_ACTIVITY_04_LINK">
+    <img src="https://img.shields.io/badge/♡%20VIEW%20ACTIVITY%2004-DCC8EB?style=for-the-badge&labelColor=F8D4E2" alt="View Activity 04"/>
+  </a>
+</p>
 
-<a href="YOUR_ACTIVITY_01_LINK">
-<img src="https://img.shields.io/badge/01-FCE4EC?style=for-the-badge&labelColor=F8D4E2&color=FCE4EC" />
-</a>
+[⬆ Back to Portfolio Roadmap](#portfolio-roadmap)
 
-<br>
+---
 
-<a href="YOUR_ACTIVITY_01_LINK">
-<b>🎀 PRESENTATION DESIGN PRINCIPLES</b>
-</a>
+<a id="laboratory-examination"></a>
 
-<br>
+## 📝 Laboratory Examination
 
-<a href="YOUR_ACTIVITY_01_LINK">
-<img src="https://img.shields.io/badge/OPEN%20ACTIVITY%2001-FCE4EC?style=for-the-badge&labelColor=F8D4E2&color=FCE4EC" />
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/LABORATORY%20EXAMINATION-GE%204120-F8D4E2?style=for-the-badge&labelColor=EDE3F5" alt="Laboratory Examination"/>
+</p>
 
-୨୧ ˚₊‧♡‧₊˚ ୨୧
+### Overview
 
-</div>
+The Laboratory Examination section contains the outputs and documents completed as part of the GE 4120 laboratory examination. It serves as a central location for accessing the examination materials and demonstrating the practical application of the skills learned throughout the course.
 
-✦ Exploring Visual Structure
+### Examination Materials
 
-This activity focuses on the fundamental principles of presentation design and explores how visual elements can be arranged to create presentations that are organized, balanced, engaging, and easy to understand.
+Use the links below to access your examination files. Replace each placeholder with the corresponding file or folder URL.
 
-<br>
+<p align="center">
+  <a href="YOUR_GOOGLE_DRIVE_LAB_LINK">
+    <img src="https://img.shields.io/badge/♡%20GOOGLE%20DRIVE-F8D4E2?style=for-the-badge&labelColor=EDE3F5" alt="Google Drive"/>
+  </a>
+  <a href="YOUR_GOOGLE_DOCS_LAB_LINK">
+    <img src="https://img.shields.io/badge/♡%20GOOGLE%20DOCS-EDE3F5?style=for-the-badge&labelColor=F8D4E2" alt="Google Docs"/>
+  </a>
+  <a href="YOUR_GOOGLE_SHEETS_LAB_LINK">
+    <img src="https://img.shields.io/badge/♡%20GOOGLE%20SHEETS-DCC8EB?style=for-the-badge&labelColor=F8D4E2" alt="Google Sheets"/>
+  </a>
+</p>
 
-<div align="center">
+### Learning Reflection
 
-<img src="https://img.shields.io/badge/VISUAL%20HIERARCHY-FCE4EC?style=for-the-badge&labelColor=F8D4E2&color=FCE4EC" />
-<img src="https://img.shields.io/badge/LAYOUT-FDEBF2?style=for-the-badge&labelColor=F9DCE8&color=FDEBF2" />
-<img src="https://img.shields.io/badge/ALIGNMENT-FCE4EC?style=for-the-badge&labelColor=F8D4E2&color=FCE4EC" />
+The laboratory examination provides an opportunity to apply the knowledge and skills gained from the course activities. Through the use of digital tools, proper formatting, and organized documentation, I continue to develop my ability to create clear, effective, and professional academic outputs.
 
-<br>
+[⬆ Back to Portfolio Roadmap](#portfolio-roadmap)
 
-<img src="https://img.shields.io/badge/BALANCE-EDE3F5?style=for-the-badge&labelColor=DCC8EB&color=EDE3F5" />
-<img src="https://img.shields.io/badge/CONTRAST-F1E8F7?style=for-the-badge&labelColor=E2D0EE&color=F1E8F7" />
-<img src="https://img.shields.io/badge/CONSISTENCY-EDE3F5?style=for-the-badge&labelColor=DCC8EB&color=EDE3F5" />
+---
 
-♡ Good design guides the viewer’s eyes and makes information easier to understand.
+<a id="my-creative-journey"></a>
 
-<br>
+## 🌷 My Creative Journey
 
-<a href="YOUR_ACTIVITY_01_LINK">♡ Click here to view Activity 01 ↗</a>
+Throughout these activities, I learned that effective design is not only about making outputs attractive. It is also about communicating information clearly, organizing ideas thoughtfully, and choosing visual elements that support the message.
 
-<br>
+Each activity contributed to my growth in presentation design, visual communication, and digital productivity. This portfolio represents my progress and the skills I continue to develop as a student.
 
-🎀 ───────────────────────── 🎀
+---
 
-</div>
+## 🎀 Design Note
 
-<!-- ACTIVITY 02 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/PALETTE-Soft%20Pink%20%26%20Lavender-F8D4E2?style=flat-square&labelColor=EDE3F5" alt="Palette"/>
+  <img src="https://img.shields.io/badge/STYLE-Minimal%20%26%20Creative-DCC8EB?style=flat-square&labelColor=FCE4EC" alt="Style"/>
+  <img src="https://img.shields.io/badge/COURSE-GE%204120-F8D4E2?style=flat-square&labelColor=EDE3F5" alt="Course"/>
+</p>
 
-<div align="center" id="activity-02">
+This portfolio uses a soft pink and lavender color palette to create a cohesive, gentle, and visually pleasing presentation. Consistent headings, badges, and navigation links help organize the portfolio and make each activity easy to find.
 
-<a href="YOUR_ACTIVITY_02_LINK">
-<img src="https://img.shields.io/badge/02-EDE3F5?style=for-the-badge&labelColor=DCC8EB&color=EDE3F5" />
-</a>
+---
 
-<br>
+## ♡ Thank You for Visiting!
 
-<a href="YOUR_ACTIVITY_02_LINK">
-<b>🪻 COLOR PALETTE & TYPOGRAPHY</b>
-</a>
+<p align="center">
+  Thank you for taking the time to explore my presentation design portfolio.
+  <br>
+  <em>Every activity is another step in my creative journey. 🎀</em>
+</p>
 
-<br>
+<p align="center">
+  <a href="#about-me">
+    <img src="https://img.shields.io/badge/♡%20BACK%20TO%20TOP-F8D4E2?style=for-the-badge&labelColor=EDE3F5" alt="Back to Top"/>
+  </a>
+</p>
 
-<a href="YOUR_ACTIVITY_02_LINK">
-<img src="https://img.shields.io/badge/OPEN%20ACTIVITY%2002-EDE3F5?style=for-the-badge&labelColor=DCC8EB&color=EDE3F5" />
-</a>
-
-୨୧ ˚₊‧♡‧₊˚ ୨୧
-
-</div>
-
-✦ Exploring Visual Identity
-
-This activity explores how color and typography work together to establish mood, personality, readability, and visual consistency within a design.
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/COLOR%20THEORY-FCE4EC?style=for-the-badge&labelColor=F8D4E2&color=FCE4EC" />
-<img src="https://img.shields.io/badge/COLOR%20HARMONY-FDEBF2?style=for-the-badge&labelColor=F9DCE8&color=FDEBF2" />
-<img src="https://img.shields.io/badge/TYPOGRAPHY-EDE3F5?style=for-the-badge&labelColor=DCC8EB&color=EDE3F5" />
-
-<br>
-
-<img src="https://img.shields.io/badge/FONT%20PAIRING-F1E8F7?style=for-the-badge&labelColor=E2D0EE&color=F1E8F7" />
-<img src="https://img.shields.io/badge/VISUAL%20IDENTITY-EDE3F5?style=for-the-badge&labelColor=DCC8EB&color=EDE3F5" />
-
-♡ The right combination of color and type can give a design its own personality.
-
-<br>
-
-<a href="YOUR_ACTIVITY_02_LINK">♡ Click here to view Activity 02 ↗</a>
-
-<br>
-
-🪻 ───────────────────────── 🪻
-
-</div>
-
-<!-- ACTIVITY 03 -->
-
-<div align="center" id="activity-03">
-
-<a href="YOUR_ACTIVITY_03_LINK">
-<img src="https://img.shields.io/badge/03-FCE8F0?style=for-the-badge&labelColor=F7D7E5&color=FCE8F0" />
-</a>
-
-<br>
-
-<a href="YOUR_ACTIVITY_03_LINK">
-<b>🩷 SOCIAL MEDIA INFOGRAPHICS</b>
-</a>
-
-<br>
-
-<b>& MINI PROJECT DOCUMENTATION</b>
-
-<br>
-
-<a href="YOUR_ACTIVITY_03_LINK">
-<img src="https://img.shields.io/badge/OPEN%20ACTIVITY%2003-FCE8F0?style=for-the-badge&labelColor=F7D7E5&color=FCE8F0" />
-</a>
-
-୨୧ ˚₊‧♡‧₊˚ ୨୧
-
-</div>
-
-✦ Creating & Communicating
-
-This activity focuses on creating social media infographics and documenting the development of a mini project, from the initial concept and planning stage to the final visual output.
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/INFOGRAPHIC%20DESIGN-FCE4EC?style=for-the-badge&labelColor=F8D4E2&color=FCE4EC" />
-<img src="https://img.shields.io/badge/SOCIAL%20MEDIA-FDEBF2?style=for-the-badge&labelColor=F9DCE8&color=FDEBF2" />
-
-<br>
-
-<img src="https://img.shields.io/badge/VISUAL%20STORYTELLING-EDE3F5?style=for-the-badge&labelColor=DCC8EB&color=EDE3F5" />
-<img src="https://img.shields.io/badge/INFORMATION%20DESIGN-F1E8F7?style=for-the-badge&labelColor=E2D0EE&color=F1E8F7" />
-<img src="https://img.shields.io/badge/PROJECT%20DOCUMENTATION-EDE3F5?style=for-the-badge&labelColor=DCC8EB&color=EDE3F5" />
-
-♡ Turning information into visuals that are simple, engaging, and meaningful.
-
-<br>
-
-<a href="YOUR_ACTIVITY_03_LINK">♡ Click here to view Activity 03 ↗</a>
-
-<br>
-
-🎀 ───────────────────────── 🎀
-
-</div>
-
-<!-- ACTIVITY 04 -->
-
-<div align="center" id="activity-04">
-
-<a href="YOUR_ACTIVITY_04_LINK">
-<img src="https://img.shields.io/badge/04-EDE3F5?style=for-the-badge&labelColor=DCC8EB&color=EDE3F5" />
-</a>
-
-<br>
-
-<a href="YOUR_ACTIVITY_04_LINK">
-<b>🎀 GOOGLE DOCS PRESENTATION</b>
-</a>
-
-<br>
-
-<a href="YOUR_ACTIVITY_04_LINK">
-<img src="https://img.shields.io/badge/OPEN%20ACTIVITY%2004-EDE3F5?style=for-the-badge&labelColor=DCC8EB&color=EDE3F5" />
-</a>
-
-୨୧ ˚₊‧♡‧₊˚ ୨୧
-
-</div>
-
-✦ Applying Digital Productivity Skills
-
-This activity demonstrates the use of Google Docs to organize information, create documents, and present ideas clearly through digital tools.
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/GOOGLE%20DOCS-FCE4EC?style=for-the-badge&labelColor=F8D4E2&color=FCE4EC" />
-<img src="https://img.shields.io/badge/DOCUMENT%20DESIGN-EDE3F5?style=for-the-badge&labelColor=DCC8EB&color=EDE3F5" />
-<img src="https://img.shields.io/badge/DIGITAL%20PRODUCTIVITY-FCE8F0?style=for-the-badge&labelColor=F7D7E5&color=FCE8F0" />
-
-♡ Organizing ideas makes information easier to share and understand.
-
-<br>
-
-<a href="YOUR_ACTIVITY_04_LINK">♡ Click here to view Activity 04 ↗</a>
-
-<br>
-
-🎀 ───────────────────────── 🎀
-
-</div>
-
-<!-- LABORATORY EXAMINATION -->
-
-<div align="center" id="laboratory-examination">
-
-<img src="https://img.shields.io/badge/LABORATORY%20EXAMINATION-FCE4EC?style=for-the-badge&labelColor=F8D4E2&color=FCE4EC" />
-
-<br>
-
-<b>🪻 GE 4120 LABORATORY EXAMINATION</b>
-
-<br>
-
-୨୧ ˚₊‧♡‧₊˚ ୨୧
-
-</div>
-
-✦ Demonstrating Practical Digital Skills
-
-The laboratory examination showcases the practical application of digital productivity tools used to organize files, create documents, and manage information.
-
-<div align="center">
-
-<a href="YOUR_GOOGLE_DRIVE_LAB_LINK">
-<img src="https://img.shields.io/badge/GOOGLE%20DRIVE-FCE4EC?style=for-the-badge&labelColor=F8D4E2&color=FCE4EC" />
-</a>
-
-<a href="YOUR_GOOGLE_DOCS_LAB_LINK">
-<img src="https://img.shields.io/badge/GOOGLE%20DOCS-EDE3F5?style=for-the-badge&labelColor=DCC8EB&color=EDE3F5" />
-</a>
-
-<a href="YOUR_GOOGLE_SHEETS_LAB_LINK">
-<img src="https://img.shields.io/badge/GOOGLE%20SHEETS-FCE8F0?style=for-the-badge&labelColor=F7D7E5&color=FCE8F0" />
-</a>
-
-</div>
-
-- **Google Drive** — Organizing, storing, and sharing digital files.
-- **Google Docs** — Creating and formatting documents.
-- **Google Sheets** — Organizing data and using spreadsheet tools.
-
-<div align="center">
-
-<br>
-
-<a href="YOUR_GOOGLE_DRIVE_LAB_LINK">♡ OPEN GOOGLE DRIVE LABORATORY TASK ↗</a>
-
-<br>
-
-<a href="YOUR_GOOGLE_DOCS_LAB_LINK">♡ OPEN GOOGLE DOCS LABORATORY TASK ↗</a>
-
-<br>
-
-<a href="YOUR_GOOGLE_SHEETS_LAB_LINK">♡ OPEN GOOGLE SHEETS LABORATORY TASK ↗</a>
-
-<br>
-
-🎀 ───────────────────────── 🎀
-
-</div>
-
-<!-- MY CREATIVE JOURNEY -->
-
-<div align="center">
-
-🎀 ୨୧ MY CREATIVE JOURNEY ୨୧ 🎀
-
-<br>
-
-<a href="#activity-01">
-<img src="https://img.shields.io/badge/01%20EXPLORE-FCE4EC?style=for-the-badge&labelColor=F8D4E2&color=FCE4EC" />
-</a>
-
-→
-
-<a href="#activity-02">
-<img src="https://img.shields.io/badge/02%20DESIGN-EDE3F5?style=for-the-badge&labelColor=DCC8EB&color=EDE3F5" />
-</a>
-
-→
-
-<a href="#activity-03">
-<img src="https://img.shields.io/badge/03%20CREATE-FCE8F0?style=for-the-badge&labelColor=F7D7E5&color=FCE8F0" />
-</a>
-
-→
-
-<a href="#activity-04">
-<img src="https://img.shields.io/badge/04%20APPLY-EDE3F5?style=for-the-badge&labelColor=DCC8EB&color=EDE3F5" />
-</a>
-
-🎀
-
-Every activity is a small step in my journey of learning, creating, and expressing ideas through design.
-
-🎀
-
-<br>
-
-🩷 ˚₊‧♡‧₊˚ 💜 ˚₊‧♡‧₊˚ 🩷
-
-</div>
-
-<div align="center">
-
-💜 DESIGN NOTE
-
-<br>
-
-<img src="https://img.shields.io/badge/CLARITY-FCE4EC?style=for-the-badge&labelColor=F8D4E2&color=FCE4EC" />
-<img src="https://img.shields.io/badge/BALANCE-EDE3F5?style=for-the-badge&labelColor=DCC8EB&color=EDE3F5" />
-<img src="https://img.shields.io/badge/CREATIVITY-FCE8F0?style=for-the-badge&labelColor=F7D7E5&color=FCE8F0" />
-
-A good design is not only beautiful.
-
-It should communicate, guide, and connect.
-
-<br>
-
-🎀 ───────────────────────── 🎀
-
-<br>
-
-Good visual communication turns ideas into experiences.
-
-<br>
-
-🩷 · 🎀 · 💜 · 🪻 · 🎀 · 💜 · 🩷
-
-</div>
-
-<div align="center">
-
-🎀 ୨୧ THANK YOU FOR VISITING ୨୧ 🎀
-
-<br>
-
-<img src="https://img.shields.io/badge/IONNA%20R.%20CENIA-FCE4EC?style=for-the-badge&labelColor=F8D4E2&color=FCE4EC" />
-<img src="https://img.shields.io/badge/GE%204120-EDE3F5?style=for-the-badge&labelColor=DCC8EB&color=EDE3F5" />
-
-<br>
-
-PRESENTATION DESIGN PORTFOLIO
-
-<br>
-
-🩷 · 🎀 · 💜 · 🪻 · 🎀 · 💜 · 🩷
-
-<img src="https://img.shields.io/badge/CREATE-FCE4EC?style=for-the-badge&labelColor=F8D4E2&color=FCE4EC" />
-<img src="https://img.shields.io/badge/DESIGN-EDE3F5?style=for-the-badge&labelColor=DCC8EB&color=EDE3F5" />
-<img src="https://img.shields.io/badge/COMMUNICATE-FCE8F0?style=for-the-badge&labelColor=F7D7E5&color=FCE8F0" />
-
-୨୧ ───────────────────── ୨୧
-
-<br>
-
-99-093 · GE 4120
-
-<br>
-
-Digital Design Portfolio · 2026
-
-🎀
-
-Made with creativity & a little bit of pink.
-
-🎀
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8D5F2&height=140&section=footer" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8D4E2,50:EDE3F5,100:DCC8EB&height=120&section=footer" width="100%" alt="Portfolio Footer"/>
+</p>
