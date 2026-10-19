@@ -209,7 +209,7 @@ The Laboratory Examination section contains the outputs and documents completed 
 ### Examination Materials
 
 <p align="center">
-  <a href="https://github.com/ircenia/21st-Century-IT-Skills/blob/0c437563cd17f50bf98cdf46abdf5479a70d6834/Laboratory%20Examination">
+  <a href="https://github.com/ircenia/21st-Century-IT-Skills/blob/b681f27fd398d41ac83c84c209a15b1608aa198f/LaboratoryExamination.md">
     <img src="https://img.shields.io/badge/♡%20GOOGLE%20DRIVE-F8D4E2?style=for-the-badge&labelColor=EDE3F5" alt="Google Drive"/>
   </a>
 </p>
