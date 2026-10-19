@@ -129,10 +129,6 @@ The examination output and related files are saved in Google Drive. Click the bu
 
 <br><br>
 
-<sub>Make sure the sharing permissions allow the intended viewers to access the files.</sub>
-
-<br><br>
-
 **୨୧ ───────── ♡ ───────── ୨୧**
 
 </div>
