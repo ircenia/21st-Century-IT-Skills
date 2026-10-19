@@ -185,7 +185,7 @@ Activity 04 focuses on using Google Docs and digital productivity tools to creat
 The output demonstrates the application of digital document skills in preparing an organized and professional academic output.
 
 <p align="center">
-  <a href="YOUR_ACTIVITY_04_LINK">
+  <a href="https://github.com/ircenia/21st-Century-IT-Skills/blob/1e2175750dbe86ab9a1c8edb778eddeaba891d49/Activity4.md">
     <img src="https://img.shields.io/badge/♡%20VIEW%20ACTIVITY%2004-DCC8EB?style=for-the-badge&labelColor=F8D4E2" alt="View Activity 04"/>
   </a>
 </p>
@@ -208,17 +208,9 @@ The Laboratory Examination section contains the outputs and documents completed 
 
 ### Examination Materials
 
-Use the links below to access your examination files. Replace each placeholder with the corresponding file or folder URL.
-
 <p align="center">
-  <a href="YOUR_GOOGLE_DRIVE_LAB_LINK">
+  <a href="https://github.com/ircenia/21st-Century-IT-Skills/blob/0c437563cd17f50bf98cdf46abdf5479a70d6834/Laboratory%20Examination">
     <img src="https://img.shields.io/badge/♡%20GOOGLE%20DRIVE-F8D4E2?style=for-the-badge&labelColor=EDE3F5" alt="Google Drive"/>
-  </a>
-  <a href="YOUR_GOOGLE_DOCS_LAB_LINK">
-    <img src="https://img.shields.io/badge/♡%20GOOGLE%20DOCS-EDE3F5?style=for-the-badge&labelColor=F8D4E2" alt="Google Docs"/>
-  </a>
-  <a href="YOUR_GOOGLE_SHEETS_LAB_LINK">
-    <img src="https://img.shields.io/badge/♡%20GOOGLE%20SHEETS-DCC8EB?style=for-the-badge&labelColor=F8D4E2" alt="Google Sheets"/>
   </a>
 </p>
 
