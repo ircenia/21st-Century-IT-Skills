@@ -185,7 +185,7 @@ Activity 04 focuses on using Google Docs and digital productivity tools to creat
 The output demonstrates the application of digital document skills in preparing an organized and professional academic output.
 
 <p align="center">
-  <a href="https://github.com/ircenia/21st-Century-IT-Skills/blob/d62ca3f25b6d9fac6c9fdc81311128f0604194bb/Activity4.md">
+  <a href="https://github.com/ircenia/21st-Century-IT-Skills/blob/a11d64c9207e548958dd056d891074bad84fa8aa/Activity4.md">
     <img src="https://img.shields.io/badge/♡%20VIEW%20ACTIVITY%2004-DCC8EB?style=for-the-badge&labelColor=F8D4E2" alt="View Activity 04"/>
   </a>
 </p>
