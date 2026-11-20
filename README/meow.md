@@ -30,7 +30,9 @@
 ## ♡ About Me
 
 <p align="center">
-  <img src="./profile.jpg" alt="Profile Photo of Ionna R. Cenia" width="180"/>
+  <img src="./5F76B46C-5B66-4D7D-8FE6-6424FC608F27.png"
+       alt="Ionna's Profile Photo"
+       width="180"/>
 </p>
 
 <h3 align="center">Hello! I'm Ionna R. Cenia 🌸</h3>
