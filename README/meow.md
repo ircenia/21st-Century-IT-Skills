@@ -261,7 +261,7 @@ This activity explores the use of Artificial Intelligence (AI) tools, particular
 The activity showcases the use of ChatGPT and AI-assisted tools in completing learning tasks and improving digital productivity.
 
 <p align="center">
-  <a href="./Activity-5/Activity5.md">
+<a href="https://github.com/ircenia/21st-Century-IT-Skills/blob/main/Activity-5/README.md">
     <img src="https://img.shields.io/badge/♡%20VIEW%20ACTIVITY%2005-F8D4E2?style=for-the-badge&labelColor=EDE3F5" alt="View Activity 05"/>
   </a>
 </p>
@@ -295,7 +295,7 @@ This activity presents another learning experience in GE 4120 through the comple
 The activity output is provided in the PDF document linked below.
 
 <p align="center">
-  <a href="YOUR-ACTIVITY-06-GOOGLE-DRIVE-PDF-LINK">
+<a href="https://github.com/ircenia/21st-Century-IT-Skills/blob/main/Activity-6/README.md">
     <img src="https://img.shields.io/badge/♡%20VIEW%20ACTIVITY%2006-DCC8EB?style=for-the-badge&labelColor=F8D4E2" alt="View Activity 06"/>
   </a>
 </p>
@@ -329,7 +329,8 @@ This activity highlights the knowledge and skills gained throughout the GE 4120 
 The completed output demonstrates the application of the skills and knowledge developed throughout the course.
 
 <p align="center">
-  <a href="YOUR-ACTIVITY-07-LINK">
+<a href="https://github.com/ircenia/21st-Century-IT-Skills/blob/main/Activity-7/README.md">
+
     <img src="https://img.shields.io/badge/♡%20VIEW%20ACTIVITY%2007-F8D4E2?style=for-the-badge&labelColor=EDE3F5" alt="View Activity 07"/>
   </a>
 </p>
