@@ -22,6 +22,14 @@ This activity focused on applying the seven basic principles of presentation des
 
 <div align="center">
 
+<a href="./Activity1.md">
+
+<img src="https://img.shields.io/badge/🎀%20VIEW%20ACTIVITY%2001-F8D4E2?style=for-the-badge&amp;labelColor=C37495" alt="View Activity 01"/>
+
+</a>
+
+</div>
+
 ---
 
 ## ♡ WHAT HAVE I LEARNED?
