@@ -22,12 +22,6 @@ This activity focused on applying the seven basic principles of presentation des
 
 <div align="center">
 
-<img src="../IMG_3736.png" alt="Free Coffee Promotional Poster" width="650" />
-
-*Free Coffee Promotional Poster · Arrupe Hall, Booth 7*
-
-</div>
-
 ---
 
 ## ♡ WHAT HAVE I LEARNED?
