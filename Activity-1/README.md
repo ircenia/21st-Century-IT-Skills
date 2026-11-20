@@ -50,6 +50,5 @@ In the future, I can apply these principles when creating presentations, posters
 
 **IONNA R. CENIA · GE 4120**
 
-[← Back to Main Portfolio](../README.md)
 
 </div>
