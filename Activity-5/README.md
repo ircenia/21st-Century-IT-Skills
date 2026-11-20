@@ -22,7 +22,15 @@ This activity focused on exploring ChatGPT as an Artificial Intelligence tool an
 
 <div align="center">
 
-[📄 View My Activity 05 Output](Activity-5/README.md)
+<div align="center">
+
+<a href="./Activity5.md">
+
+<img src="https://img.shields.io/badge/🎀%20VIEW%20ACTIVITY%2005-F8D4E2?style=for-the-badge&amp;labelColor=C37495" alt="View Activity 05"/>
+
+</a>
+
+</div>
 
 </div>
 
