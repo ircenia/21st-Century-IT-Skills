@@ -58,13 +58,7 @@ The main goal of the design was to communicate the event information clearly whi
 
 <br>
 
-<img src="../IMG_3736.png" alt="Free Coffee Promotional Poster" width="650" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/FREE%20COFFEE-FCE4EC?style=for-the-badge&labelColor=F8D4E2&color=FCE4EC">
-
-<img src="https://img.shields.io/badge/PROMOTIONAL%20POSTER-EDE3F5?style=for-the-badge&labelColor=DCC8EB&color=EDE3F5">
+<img src="./IMG_3736.png" alt="Free Coffee Promotional Poster" width="650" />
 
 <br><br>
 
