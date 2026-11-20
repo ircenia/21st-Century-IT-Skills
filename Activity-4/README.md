@@ -24,21 +24,9 @@ Through this activity, I explored how digital platforms can make sharing informa
 
 <div align="center">
 
-### 📚 GROUP 5 PRESENTATION
+<a href="./Activity4.md">
 
-<a href="https://cdn.fbsbx.com/v/t59.2708-21/850130215_1115636644342969_7631801180364643754_n.pdf/GE-4120-GROUP-5-ELECTIVE-SLIDES.pdf?_nc_cat=102&ccb=1-7&_nc_sid=2b0e22&_nc_eui2=AeFN_bZdSxFW392pm7h8ayTO5QljaOFtZsflCWNo4W1mx2H3lDHKoF6S2KGBA8jeK1jch_gVHzzmJBcUaOLI1PpH&_nc_ohc=5oeZ4Ci34-MQ7kNvwFc331e&_nc_oc=AdqHGwaBO7BTL25SIsL9p81zPQ9omuP9nMK_UvbSkExcCOAhY5NNbUsoOKtlFsJJ0eQ&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=DoBf1fodaI9svpki2V95Qw&_nc_ss=7b2a8&oh=03_Q7cD6gHjtItTKrl1db5bB8mYbRiXJmnAeMBUjDDoGgIfqwQ2aw&oe=6AD7ED76&dl=1#no_universal_links">
-
-<img src="https://img.shields.io/badge/🎀%20VIEW%20GROUP%205%20PRESENTATION-F8D4E2?style=for-the-badge&labelColor=C37495" alt="View Group 5 Presentation"/>
-
-</a>
-
-<br/><br/>
-
-### 💗 INTERACTIVE QUIZ
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeRL6-XfvxnerpPccpc8z6IitM5fRx2l8quHds02M1Oxo0WTw/viewform?usp=publish-editor">
-
-<img src="https://img.shields.io/badge/🎀%20TAKE%20THE%20QUIZ-F8D4E2?style=for-the-badge&labelColor=C37495" alt="Take the Quiz"/>
+<img src="https://img.shields.io/badge/🎀%20VIEW%20ACTIVITY%2004-F8D4E2?style=for-the-badge&amp;labelColor=C37495" alt="View Activity 04"/>
 
 </a>
 
