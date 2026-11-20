@@ -22,7 +22,7 @@ This activity focused on exploring ChatGPT as an Artificial Intelligence tool an
 
 <div align="center">
 
-[📄 View My Activity 05 Output](https://drive.google.com/file/d/1luD3dxpiR_DeA7eAT6D1RwaCixb9oNyK/view?usp=drivesdk)
+[📄 View My Activity 05 Output](Activity-5/Activity5.md)
 
 </div>
 
