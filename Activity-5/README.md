@@ -22,7 +22,7 @@ This activity focused on exploring ChatGPT as an Artificial Intelligence tool an
 
 <div align="center">
 
-[📄 View My Activity 05 Output](Activity-5/Activity5.md)
+[📄 View My Activity 05 Output](Activity-5/README.md)
 
 </div>
 
