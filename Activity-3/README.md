@@ -24,13 +24,9 @@ I designed the infographic using appropriate colors, typography, icons, illustra
 
 <div align="center">
 
-<img src="./IMG_3746.png" width="70%" alt="Smart Waste, Smarter Future Infographic" />
+<a href="./Activity3.md">
 
-<br><br>
-
-<a href="./IMG_3746.png">
-
-<img src="https://img.shields.io/badge/🌱%20VIEW%20INFOGRAPHIC-F8D4E2?style=for-the-badge&amp;labelColor=C37495" alt="View Infographic"/>
+<img src="https://img.shields.io/badge/🎀%20VIEW%20ACTIVITY%2003-F8D4E2?style=for-the-badge&amp;labelColor=C37495" alt="View Activity 03"/>
 
 </a>
 
