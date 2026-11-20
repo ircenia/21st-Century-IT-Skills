@@ -58,7 +58,7 @@ The main goal of the design was to communicate the event information clearly whi
 
 <br>
 
-<img src="./IMG_3736.png" alt="Free Coffee Promotional Poster" width="700">
+<img src="../IMG_3736.png" alt="Free Coffee Promotional Poster" width="650" />
 
 <br><br>
 
