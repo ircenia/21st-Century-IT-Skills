@@ -330,7 +330,6 @@ The completed output demonstrates the application of the skills and knowledge de
 
 <p align="center">
 <a href="https://github.com/ircenia/21st-Century-IT-Skills/blob/main/Activity-7/README.md">
-
     <img src="https://img.shields.io/badge/♡%20VIEW%20ACTIVITY%2007-F8D4E2?style=for-the-badge&labelColor=EDE3F5" alt="View Activity 07"/>
   </a>
 </p>
