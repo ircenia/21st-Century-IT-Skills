@@ -8,7 +8,7 @@
 <p align="center">
   <strong>🎀 PRESENTATION DESIGN PORTFOLIO 🎀</strong>
   <br>
-  <em>Three Creative Pieces · One Creative Journey</em>
+  <em>Seven Activities · One Creative Journey</em>
 </p>
 
 <p align="center">
@@ -60,6 +60,7 @@ I enjoy learning new digital skills, exploring creative designs, organizing info
 | Google Sheets | Organizing data and using spreadsheets |
 | Google Drive | Storing, managing, and sharing digital files |
 | GitHub | Managing repositories and documenting activities using README files |
+| ChatGPT | Exploring AI-assisted learning, writing, and idea generation |
 | Visual Communication | Using colors, typography, and layouts effectively |
 | Digital Collaboration | Sharing files and collaborating through online tools |
 
@@ -91,6 +92,9 @@ Click an activity below to navigate to its section in this README.
 | 02 | Color Palette and Typography | Exploring colors, fonts, and visual identity | [View Activity](#activity-02) |
 | 03 | Social Media Infographics and Mini Project Documentation | Creating informative and engaging visual content | [View Activity](#activity-03) |
 | 04 | Google Docs Presentation | Applying digital document and presentation skills | [View Activity](#activity-04) |
+| 05 | Exploring Artificial Intelligence Tools | Exploring AI tools for learning and productivity | [View Activity](#activity-05) |
+| 06 | Activity 06 | Digital learning and practical application | [View Activity](#activity-06) |
+| 07 | Activity 07 | Final activity and application of learned skills | [View Activity](#activity-07) |
 | Lab | Laboratory Examination | Compilation of laboratory examination outputs | [View Lab Exam](#laboratory-examination) |
 
 ---
@@ -232,6 +236,108 @@ The output demonstrates the application of digital document skills in preparing 
 
 ---
 
+<a id="activity-05"></a>
+
+## 🤖 Activity 05: Exploring Artificial Intelligence Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ACTIVITY%2005-ARTIFICIAL%20INTELLIGENCE-F8D4E2?style=for-the-badge&labelColor=EDE3F5" alt="Activity 05"/>
+</p>
+
+### Overview
+
+This activity explores the use of Artificial Intelligence (AI) tools, particularly ChatGPT, as a digital assistant for learning, brainstorming, and productivity. It demonstrates how AI can help generate ideas, explain concepts, organize information, and support different academic tasks.
+
+### Key Learning Points
+
+- **Artificial Intelligence** — Understanding how AI tools can assist with different tasks.
+- **Prompt Writing** — Creating clear and specific instructions to obtain useful responses.
+- **Information Processing** — Using AI to summarize, explain, and organize information.
+- **Critical Thinking** — Evaluating AI-generated responses instead of accepting all information automatically.
+- **Responsible AI Use** — Practicing ethical and appropriate use of AI in academic work.
+
+### Activity Output
+
+The activity showcases the use of ChatGPT and AI-assisted tools in completing learning tasks and improving digital productivity.
+
+<p align="center">
+  <a href="./Activity-5/Activity5.md">
+    <img src="https://img.shields.io/badge/♡%20VIEW%20ACTIVITY%2005-F8D4E2?style=for-the-badge&labelColor=EDE3F5" alt="View Activity 05"/>
+  </a>
+</p>
+
+[⬆ Back to Portfolio Roadmap](#portfolio-roadmap)
+
+---
+
+<a id="activity-06"></a>
+
+## 🌷 Activity 06: Activity 06
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ACTIVITY%2006-GE%204120-EDE3F5?style=for-the-badge&labelColor=F8D4E2" alt="Activity 06"/>
+</p>
+
+### Overview
+
+This activity presents another learning experience in GE 4120 through the completion of the assigned task and its corresponding output. It demonstrates the application of digital tools, creativity, and technical skills in accomplishing academic requirements.
+
+### Key Learning Points
+
+- **Digital Skills** — Applying appropriate digital tools to complete the assigned task.
+- **Creativity** — Exploring different ways to present information.
+- **Organization** — Arranging content and materials in a clear format.
+- **Problem-Solving** — Addressing challenges encountered while completing the activity.
+- **Practical Application** — Applying previously learned concepts to a new task.
+
+### Activity Output
+
+The activity output is provided in the PDF document linked below.
+
+<p align="center">
+  <a href="YOUR-ACTIVITY-06-GOOGLE-DRIVE-PDF-LINK">
+    <img src="https://img.shields.io/badge/♡%20VIEW%20ACTIVITY%2006-DCC8EB?style=for-the-badge&labelColor=F8D4E2" alt="View Activity 06"/>
+  </a>
+</p>
+
+[⬆ Back to Portfolio Roadmap](#portfolio-roadmap)
+
+---
+
+<a id="activity-07"></a>
+
+## 💗 Activity 07: Activity 07
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ACTIVITY%2007-GE%204120-F8D4E2?style=for-the-badge&labelColor=DCC8EB" alt="Activity 07"/>
+</p>
+
+### Overview
+
+This activity highlights the knowledge and skills gained throughout the GE 4120 course. It provides an opportunity to apply digital productivity, creativity, and information management skills through the completion of the assigned task.
+
+### Key Learning Points
+
+- **Digital Application** — Applying the concepts and tools learned throughout the course.
+- **Creativity and Design** — Developing outputs that communicate information effectively.
+- **Technical Skills** — Improving familiarity with digital applications and tools.
+- **Critical Thinking** — Finding appropriate solutions to challenges.
+- **Continuous Improvement** — Identifying areas for further learning and development.
+
+### Activity Output
+
+The completed output demonstrates the application of the skills and knowledge developed throughout the course.
+
+<p align="center">
+  <a href="YOUR-ACTIVITY-07-LINK">
+    <img src="https://img.shields.io/badge/♡%20VIEW%20ACTIVITY%2007-F8D4E2?style=for-the-badge&labelColor=EDE3F5" alt="View Activity 07"/>
+  </a>
+</p>
+
+[⬆ Back to Portfolio Roadmap](#portfolio-roadmap)
+
+---
+
 <a id="laboratory-examination"></a>
 
 ## 📝 Laboratory Examination
@@ -264,9 +370,9 @@ The laboratory examination provides an opportunity to apply the knowledge and sk
 
 ## 🌷 My Creative Journey
 
-Throughout these activities, I learned that effective design is not only about making outputs attractive. It is also about communicating information clearly, organizing ideas thoughtfully, and choosing visual elements that support the message.
+Throughout these seven activities, I learned that effective design and digital productivity are not only about creating attractive outputs. They are also about communicating information clearly, organizing ideas thoughtfully, solving problems, and choosing the right tools for each task.
 
-Each activity contributed to my growth in presentation design, visual communication, and digital productivity. This portfolio represents my progress and the skills I continue to develop as a student.
+Each activity contributed to my growth in presentation design, visual communication, artificial intelligence, and digital productivity. This portfolio represents my progress, creativity, and the skills I continue to develop as a student.
 
 ---
 
