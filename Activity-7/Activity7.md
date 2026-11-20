@@ -146,7 +146,7 @@ This section contains my completed Activity 07 documentation in PDF format. It i
 
 <a href="https://drive.google.com/file/d/1WwxIc--gIKt0x_TZby3bARE_72mYzril/view?usp=drivesdk">
 
-<img src="https://img.shields.io/badge/🎀%20VIEW%20ACTIVITY%2007%20PDF-F6C6D8?style=for-the-badge&amp;labelColor=C37495" alt="View Activity 07"/>
+<img src="https://img.shields.io/badge/🎀%20VIEW%20ACTIVITY%2007-F6C6D8?style=for-the-badge&amp;labelColor=C37495" alt="View Activity 07"/>
 
 </a>
 
