@@ -53,6 +53,4 @@ In the future, I can apply these skills when creating presentations, resumes, lo
 
 [← Previous Activity](../Activity-1/README.md)
 
-[Back to Main Portfolio](../README.md)
-
 </div>
