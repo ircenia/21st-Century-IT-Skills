@@ -18,13 +18,28 @@
 
 ## ♡ ACTIVITY OVERVIEW
 
-This activity focused on exploring color palettes and typography and understanding how they contribute to effective digital design. I created a coordinated color palette and typography set and applied these elements to design materials such as a resume header, tagline, and logo. The activity helped me understand how colors and fonts can establish a consistent and recognizable visual identity.
+This activity focused on exploring color palettes and typography and understanding their importance in creating effective digital designs. I developed a coordinated color palette and typography set and applied these elements to different design materials, including a resume header, tagline, and logo. Through this activity, I learned how the proper combination of colors and fonts can create a consistent visual identity and make designs more appealing, organized, and recognizable.
+
+
+<div align="center">
+
+<a href="./Activity2.md">
+
+<img src="https://img.shields.io/badge/🎀%20VIEW%20ACTIVITY%2002-F8D4E2?style=for-the-badge&amp;labelColor=C37495" alt="View Activity 02"/>
+
+</a>
+
+</div>
 
 ---
 
 ## ♡ WHAT HAVE I LEARNED?
 
-Through this activity, I learned how to select complementary colors and appropriate typography to create a visually consistent design. I improved my skills in combining colors, choosing readable fonts, and applying different font styles to elements such as logos, taglines, and resume headers. One challenge I encountered was finding colors and fonts that complemented each other, which I addressed by experimenting with different combinations and comparing their overall appearance. I realized that the right color palette and typography can make a design more organized, attractive, and recognizable. In the future, I can apply these skills when creating presentations, resumes, logos, and other digital materials while continuing to explore creative color combinations and typography styles.
+Through this activity, I learned how to choose complementary colors and appropriate typography to create a visually balanced and consistent design. I improved my skills in combining colors, selecting readable fonts, and applying different font styles to design elements such as logos, taglines, and resume headers.
+
+One challenge I encountered was finding colors and fonts that complemented each other without making the design look overwhelming. I addressed this by experimenting with different combinations and comparing their overall appearance until I achieved a more coordinated result. I realized that the right choice of colors and typography can make a design more attractive, organized, and memorable.
+
+In the future, I can apply these skills when creating presentations, resumes, logos, and other digital materials. I will continue exploring different color combinations and typography styles to improve my creativity and develop a stronger sense of visual design.
 
 ---
 
@@ -36,6 +51,8 @@ Through this activity, I learned how to select complementary colors and appropri
 
 **IONNA R. CENIA · GE 4120**
 
-[← Previous Activity](../Activity-1/README.md) · [Back to Main Portfolio](../README.md)
+[← Previous Activity](../Activity-1/README.md) · [Next Activity →](../Activity-3/README.md)
+
+[Back to Main Portfolio](../README.md)
 
 </div>
