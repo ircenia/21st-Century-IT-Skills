@@ -42,14 +42,7 @@ Through this activity, I explored how ChatGPT can assist in generating ideas, an
 ## 01 · ChatGPT
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="ChatGPT"/>
-
-<br/><br/>
-
-<img src="https://cdn.simpleicons.org/openai/74AA9C" width="75" alt="OpenAI Logo"/>
-
-</div>
+  
 
 ChatGPT is an Artificial Intelligence tool developed by OpenAI that allows users to interact with AI through conversations. It can answer questions, explain complex topics, generate ideas, summarize information, and assist with writing and other academic tasks.
 
