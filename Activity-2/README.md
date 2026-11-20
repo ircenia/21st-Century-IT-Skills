@@ -51,7 +51,7 @@ In the future, I can apply these skills when creating presentations, resumes, lo
 
 **IONNA R. CENIA · GE 4120**
 
-[← Previous Activity](../Activity-1/README.md) · [Next Activity →](../Activity-3/README.md)
+[← Previous Activity](../Activity-1/README.md)
 
 [Back to Main Portfolio](../README.md)
 
